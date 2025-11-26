@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sultan
 - 👀 I’m interested in Programming, Calisthenics and Chess
-- 🌱 I’m currently learning Java and Flutter framework
+- 🌱 I’m currently learning Dart and Flutter framework
 - 💞️ I’m looking to collaborate on some companies
 - 📫 How to reach me asansultan25@gmail.com
 
